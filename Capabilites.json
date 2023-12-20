@@ -1,0 +1,11 @@
+[
+    {
+        "platformName": "Android",
+        "automationName": "UiAutomator2",
+        "deviceName": "Android Emulator",
+        "udid": "RZ8R30NVQCF",
+        "platformVersion": "12",
+        "app": "C:\\Users\\iray3\\Downloads\\dk.resound.smart3d-Signed.apk",
+        "appPackage": "dk.resound.smart3d"
+    }
+]
